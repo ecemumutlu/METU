@@ -1,2 +1,2 @@
-# METU
-Homeworks that are given to me while I was a student of METU Computer Engineering Department. 
+# the2.pdf
+the2.pdf includes the homework description
